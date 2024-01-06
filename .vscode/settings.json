@@ -1,0 +1,9 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "sissel.shopify-liquid"
+  },
+  "files.associations": {
+    "*.html": "liquid"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

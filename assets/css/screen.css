@@ -1,3 +1,9 @@
+* {
+  font-family: 'Pretendard Variable', Pretendard, -apple-system,
+    BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI',
+    'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
+}
 /* 
 Template Name: Mediumish 
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
@@ -309,7 +315,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-  font-family: Righteous;
+  font-weight: 700;
 }
 
 .mainheading h1.posttitle {
@@ -334,10 +340,9 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-  font-family: Merriweather;
-  font-size: 1.1rem;
-  line-height: 1.84;
-  color: rgba(0, 0, 0, 0.8);
+  font-size: 17px;
+  line-height: 1.7;
+  color: rgba(0, 0, 0, 0.9);
 }
 
 blockquote {
@@ -677,22 +682,6 @@ ul.tags li a:hover {
   margin-bottom: 1.5rem;
 }
 
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    'Helvetica Neue', Arial, sans-serif;
-}
-
 .article-post .h1,
 .article-post .h2,
 .article-post .h3,
@@ -716,9 +705,6 @@ h6 {
 }
 
 .layout-page .article-post {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-    'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1rem;
 }
 
@@ -881,7 +867,6 @@ iframe {
   line-height: 1;
   padding: 2px 3px;
   width: 150px;
-  font-family: Arial;
   text-align: center;
   border-radius: 3px;
   transition: all 0.4s;

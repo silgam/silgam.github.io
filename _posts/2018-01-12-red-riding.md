@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Riding Hood'
-author: sal
+author: 실감
 categories: [Jekyll, tutorial]
 image: assets/images/1.jpg
 ---

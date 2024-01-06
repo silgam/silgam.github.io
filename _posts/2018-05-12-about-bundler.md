@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'About Bundler'
-author: sal
+author: 민승현
 categories: [Jekyll]
 image: assets/images/2.jpg
 rating: 3

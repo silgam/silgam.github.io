@@ -13,23 +13,33 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: 'Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo.'
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: 'This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages.'
+  민승현:
+    name: 민승현
+    display_name: 민승현
+    avatar: 'assets/images/seunghyun.jpg'
+    gravatar:
+    email: seunghyun@silgam.app
+    web: https://seunghyun.in
+    twitter: https://www.linkedin.com/in/seunghyunmin/
+    description: '실감의 founder로, 실감을 개발하고 팀을 이끌고 있습니다.'
+  강용진:
+    name: 강용진
+    display_name: 강용진
+    avatar: 'assets/images/yongjin.png'
+    gravatar:
+    email: yongjin@silgam.app
+    web: https://www.instagram.com/self_educator
+    twitter: https://www.instagram.com/self_educator
+    description: '실감의 co-founder로, 사업개발을 맡고 있습니다.'
+  실감:
+    name: 실감
+    display_name: 실감
+    avatar: 'assets/images/silgam.png'
+    gravatar:
+    email: contact@silgam.app
+    web: https://silgam.app
+    twitter: https://silgam.app/instagram
+    description: '수능 시뮬레이션부터 성적 관리까지, 수능 필수 앱 실감'
 
 # Plugins
 plugins:

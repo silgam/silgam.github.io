@@ -1,7 +1,7 @@
 # Site
-name: '실감 블로그'
-title: '실감 블로그'
-description: '실감 공식 블로그'
+name: '실감 팀 블로그'
+title: '실감 팀 블로그'
+description: '수능 필수 앱이 되기까지 실감 팀의 여정'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''

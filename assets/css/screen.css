@@ -252,7 +252,7 @@ span.post-read-more a:hover {
 }
 
 .dot:after {
-  content: "·";
+  content: '·';
   margin-left: 3px;
   margin-right: 3px;
 }
@@ -429,11 +429,11 @@ blockquote {
     display: block;
   }
 
-  .alertbar input[type="submit"] {
+  .alertbar input[type='submit'] {
     border-radius: 3px !important;
   }
 
-  .alertbar input[type="email"] {
+  .alertbar input[type='email'] {
     margin-right: 0px !important;
     display: block;
     border-right: 1px solid #ddd !important;
@@ -571,7 +571,7 @@ ul.tags li a:hover {
   display: inline-block;
 }
 
-.alertbar input[type="email"] {
+.alertbar input[type='email'] {
   font-size: 0.85rem;
   padding: 3px 5px 3px 10px;
   border-top-left-radius: 3px;
@@ -584,7 +584,7 @@ ul.tags li a:hover {
   margin-left: 5px;
 }
 
-.alertbar input[type="submit"] {
+.alertbar input[type='submit'] {
   background-color: #1c9963;
   border: 1px solid #1c9963;
   color: rgba(255, 255, 255, 1);
@@ -689,8 +689,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, sans-serif;
 }
 
 .article-post .h1,
@@ -716,9 +716,9 @@ h6 {
 }
 
 .layout-page .article-post {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-    "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1rem;
 }
 
@@ -870,7 +870,7 @@ iframe {
 .spoiler:after {
   position: absolute;
   opacity: 0;
-  content: "Click to reveal spoiler";
+  content: 'Click to reveal spoiler';
   top: 45%;
   left: calc(50% - 100px);
   text-shadow: none;

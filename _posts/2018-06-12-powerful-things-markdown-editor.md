@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Powerful things you can do with the Markdown editor"
+title: 'Powerful things you can do with the Markdown editor'
 author: sal
 categories: [Jekyll, tutorial]
 image: assets/images/16.jpg
@@ -56,13 +56,13 @@ There are two types of code elements which can be inserted in Markdown, the firs
 ```js
 // alertbar later
 $(document).scroll(function () {
-  var y = $(this).scrollTop()
+  var y = $(this).scrollTop();
   if (y > 280) {
-    $(".alertbar").fadeIn()
+    $('.alertbar').fadeIn();
   } else {
-    $(".alertbar").fadeOut()
+    $('.alertbar').fadeOut();
   }
-})
+});
 ```
 
 #### Python

@@ -5,7 +5,7 @@ description: '수능 필수 앱이 되기까지 실감 팀의 여정'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:
-disqus:
+disqus: 'silgam'
 mailchimp-list:
 include: ['_pages']
 permalink: /:title/

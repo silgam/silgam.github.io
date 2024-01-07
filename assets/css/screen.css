@@ -22,12 +22,12 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-  color: #00ab6b;
+  color: #283593;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #038252;
+  color: #283593;
   text-decoration: none;
 }
 
@@ -356,7 +356,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-  border-left: 4px solid #00ab6b;
+  border-left: 4px solid #283593;
   padding: 0 20px;
   font-style: italic;
   color: rgba(0, 0, 0, 0.5);
@@ -544,8 +544,8 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-  border-color: #02b875;
-  color: #1c9963;
+  border-color: #283593;
+  color: #283593;
   padding: 3px 10px;
   text-align: center;
   border-radius: 999em;

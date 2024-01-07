@@ -136,6 +136,18 @@ section.recent-posts {
   border: 0;
 }
 
+.post-box,
+.post-box .card-footer {
+  background-color: white !important;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.post-box:hover,
+.post-box:hover .card-footer {
+  background-color: #f5f5f5 !important;
+  transition: background-color 0.2s ease-in-out;
+}
+
 .listfeaturedtag .thumbnail {
   background-size: cover;
   height: 100%;

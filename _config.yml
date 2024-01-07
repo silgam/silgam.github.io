@@ -79,4 +79,13 @@ adsense-data-ad-slot:
 # Lazy Images ("enabled" or "disabled")
 lazyimages: 'disabled'
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude:
+  [
+    changelog.md,
+    LICENSE.txt,
+    README.md,
+    Gemfile,
+    Gemfile.lock,
+    CNAME,
+    docker-compose.yml,
+  ]

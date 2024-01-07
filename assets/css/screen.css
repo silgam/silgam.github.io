@@ -900,3 +900,11 @@ iframe {
   opacity: 0;
   transition: opacity 0.25s;
 }
+
+.navbar-toggler:focus {
+  outline: none;
+}
+
+.form-control:focus {
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
+}

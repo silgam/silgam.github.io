@@ -77,7 +77,7 @@ adsense-data-ad-client:
 adsense-data-ad-slot:
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: 'disabled'
+lazyimages: 'enabled'
 
 exclude:
   [

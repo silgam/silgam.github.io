@@ -95,7 +95,7 @@ section.recent-posts {
 
 .article-post ol ol,
 .article-post ul ul {
-  list-style: disc;
+  list-style: none;
   margin-bottom: 0rem;
 }
 
@@ -242,8 +242,10 @@ section.recent-posts {
 }
 
 .toc ul {
-  list-style: decimal;
+  list-style: none;
   font-weight: 400;
+  padding-inline-start: 0.8rem;
+  font-size: 0.9em;
 }
 
 .author-meta {

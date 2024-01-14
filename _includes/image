@@ -1,4 +1,4 @@
-<figure class="figure" style="flex: {{ include.ratio | default: 1 }} 1 {{ include.minWidth | default: 0 }};">
+<figure class="figure" style="flex: {{ include.ratio | default: 1 }} 1 {{ include.minWidth | default: 0 }}; {% if include.figureMaxWidth %}max-width: {{ include.figureMaxWidth }};{% endif %}">
   <img
     class="lazyimg"
     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="

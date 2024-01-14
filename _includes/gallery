@@ -1,7 +1,11 @@
 {% assign gallery = page[include.id] %}
 
-<div class="gallery">
+<div
+  class="gallery"
+  {% if include.maxWidth %}
+  style="max-width: {{ include.maxWidth }};"
+  {% endif %}>
   {% for img in gallery %}
-    {% include image src=img.src alt=img.alt caption=img.caption maxWidth=img.maxWidth ratio=img.ratio minWidth=img.minWidth %}
+    {% include image src=img.src alt=img.alt caption=img.caption maxWidth=img.maxWidth ratio=img.ratio minWidth=img.minWidth maxWidth=img.maxWidth %}
   {% endfor %}
 </div>

@@ -36,3 +36,14 @@ h6,
 .article-post a:hover {
   text-decoration: underline;
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+
+  figure {
+    margin: 0;
+  }
+}

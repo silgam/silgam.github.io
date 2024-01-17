@@ -245,6 +245,10 @@ section.recent-posts {
   display: block;
 }
 
+.post-top-meta .link-dark {
+  font-weight: 500;
+}
+
 .toc ul {
   list-style: none;
   font-weight: 400;

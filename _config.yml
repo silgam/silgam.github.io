@@ -87,3 +87,9 @@ exclude:
     CNAME,
     docker-compose.yml,
   ]
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      comments: false

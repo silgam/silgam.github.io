@@ -494,11 +494,6 @@ blockquote {
   .listfeaturedtag .card-block {
     padding: 20px;
   }
-
-  .footer {
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
 }
 
 @media (max-width: 1024px) {
